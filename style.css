@@ -40,7 +40,7 @@ body {
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .adding-task__wrapper {
@@ -142,7 +142,7 @@ body {
 }
 
 .list__item-input--text {
-  width: 226px
+  width: 226px;
 }
 
 .list__item-button-remove-icon {
@@ -163,12 +163,12 @@ body {
 
 /* Edit Task */
 .list__item-input--text {
-  display: none
+  display: none;
 }
 
 .list__item--edit-mode .list__item-input--text {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .list__item--edit-mode .list__item-label {
